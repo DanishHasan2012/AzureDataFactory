@@ -1,0 +1,9 @@
+{
+	"name": "olympics1devops-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21e585a3-f218-410c-8c62-2c312fab7ab8",
+		"tenantId": "287abe44-985b-44ee-85d7-72b312c6a427"
+	}
+}
